@@ -11,6 +11,8 @@ PCA and LDA works with linear problems, when the data is linearly separable
 
 Kernel PCA is used when data is not linear separable, it is a kind of special PCA,
 it takes the principal components.
+
+Use this technique when PCA is not working well, because the problem is not linear
 """
 
 
